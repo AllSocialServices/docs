@@ -1,0 +1,1 @@
+curl -fsSL https://github.com/botpress/adk/releases/latest/download/install.sh | bash
